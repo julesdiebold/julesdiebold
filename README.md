@@ -1,4 +1,4 @@
-## ⚡️ Jules Diebold
+## ⚡️⚙️ Jules Diebold
 
 `Engineering Explorer`
 
