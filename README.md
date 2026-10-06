@@ -12,7 +12,6 @@ I'm a student at EPFL, curious about the world and always trying to understand i
 
 - **BSc in [Mechanical Engineering](https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/), EPFL**
 ---
----
 
 ## 🛠️ Skills & Tools
 
@@ -27,7 +26,7 @@ I'm a student at EPFL, curious about the world and always trying to understand i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square" height="40" alt="LabVIEW"/>
+  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/labview.svg" width="40" height="40" alt="LabVIEW"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" width="40" height="40" alt="CATIA"/>
   &nbsp;
@@ -35,8 +34,9 @@ I'm a student at EPFL, curious about the world and always trying to understand i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square" height="40" alt="Microsoft Office"/>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/microsoft-office-icon.png" width="40" height="40" alt="Microsoft Office"/>
 </p>
+
 
 
 
