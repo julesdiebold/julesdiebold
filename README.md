@@ -6,7 +6,6 @@ I'm a student at EPFL, curious about the world and always trying to understand i
 
 [![Mail](https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.diebold.pro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-diebold-17bbb5327/)
-
 ---
 
 ## 🎓 Education
