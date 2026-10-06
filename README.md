@@ -41,7 +41,7 @@ I'm a student at EPFL, curious about the world and always trying to understand i
 
 ## 🌍 Languages
 
-🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇳🇴
+# 🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇳🇴
 
 
 
