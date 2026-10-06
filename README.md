@@ -1,4 +1,26 @@
-## Hi there 👋
+# Jules Diebold
+
+`Engineering Explorer`
+
+I'm a student at EPFL, curious about the world and always trying to understand it through physics, maths and computer science. I love coming up with ideas, building things, and turning a thought into something that actually works.
+
+[![Mail](https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-diebold-17bbb5327/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **julesdiebold/julesdiebold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
