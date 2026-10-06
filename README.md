@@ -13,10 +13,6 @@ I'm a student at EPFL, curious about the world and always trying to understand i
 - **BSc in [Mechanical Engineering](https://www.epfl.ch/education/bachelor/programs/mechanical-engineering/), EPFL**
 ---
 
----
-
----
-
 ## 🛠️ Skills & Tools
 
 <p align="left">
