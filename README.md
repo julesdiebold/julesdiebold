@@ -37,11 +37,11 @@ I'm a student at EPFL, curious about the world and always trying to understand i
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/microsoft-office-icon.png" width="40" height="40" alt="Microsoft Office"/>
 </p>
 
+---
 
+## 🌍 Languages
 
-
-
-
+🇫🇷 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇩🇪 🇳🇴
 
 
 
