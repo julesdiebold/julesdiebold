@@ -15,6 +15,8 @@ I'm a student at EPFL, curious about the world and always trying to understand i
 
 ---
 
+---
+
 ## 🛠️ Skills & Tools
 
 <p align="left">
@@ -26,9 +28,17 @@ I'm a student at EPFL, curious about the world and always trying to understand i
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/>
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  &nbsp;
+  <img src="./assets/labview.svg" width="40" height="40" alt="LabVIEW"/>
+  &nbsp;
+  <img src="./assets/catia.svg" width="40" height="40" alt="CATIA"/>
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/>
+  &nbsp;
+  <img src="./assets/office.svg" width="40" height="40" alt="Microsoft Office"/>
 </p>
 
 
