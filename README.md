@@ -28,7 +28,7 @@ I'm a student at EPFL, curious about the world and always trying to understand i
   &nbsp;
   <img src="https://camo.githubusercontent.com/5c454a209dc56085008abbb2f397dad72961e3fa30f14917894087644b1221fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c6162766965772f6c6162766965772d6f726967696e616c2e737667" width="40" height="40" alt="LabVIEW"/>
   &nbsp;
-  <img src="./catia.png" width="40" height="40" alt="CATIA"/>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" width="40" height="40" alt="CATIA"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="40" height="40" alt="LaTeX"/>
   &nbsp;
